@@ -1,0 +1,12 @@
+mne
+numpy
+pandas
+pyEDFlib
+seaborn
+matplotlib
+scikit-learn
+h5py
+tensorflow
+torch
+nolds
+joblib
