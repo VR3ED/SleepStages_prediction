@@ -2,7 +2,9 @@
 Project-1 for digital signal and image management (23/24).  Main focus is comparaison of deep models running on raw eeg data and simple models trained on extracted feateures from EEG
 
 
-To start both projects, simply open the `Project1.ipynb` file (or  `Project1-LiveDemo.ipynb`) in your IDE (it is recommended to use Visual Studio Code by installing the Jupyter extension to read notebooks) and create a virtual environment. If opened in Visual Studio Code, a popup should appear to create it automatically. Below are the instructions to manually create a virtual environment:
+To start both projects, simply downlaod all files from github. Then decompress them and place them in the same folder. You can then open said folder with your IDE of preference. 
+
+Once Folder is loaded, open the `Project1.ipynb` file (or  `Project1-LiveDemo.ipynb`) in your IDE (it is recommended to use Visual Studio Code by installing the Jupyter extension to read notebooks) and create a virtual environment. If opened in Visual Studio Code, a popup should appear to create it automatically. Below are the instructions to manually create a virtual environment:
 
 1. First, create a virtual environment:
 
